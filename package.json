@@ -1,0 +1,15 @@
+{
+  "name": "blind-threshold-bls-neon",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "Kobi Gurkan <kobi@clabs.co>",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "neon-cli": "^0.8.0"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
